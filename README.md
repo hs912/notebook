@@ -5,7 +5,7 @@
 - linter
 - linter-php
 - atom-beautify
-  - 配置executables的php和php-cs-fixer([下载php-cs-fixer-v2.phar](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases))
+  - 配置executables的php和php-cs-fixer([下载php-cs-fixer-v2.phar设置为path即可](https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases))
 
 # 在线浏览office文档
 - https://owa-box.vips100.com/op/view.aspx?src=
